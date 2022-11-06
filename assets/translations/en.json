@@ -1,0 +1,17 @@
+{
+    "language": "Language",
+    "barcode": "barcode",
+    "password": "password",
+    "remember": "Remember password?",
+    "dont": "Don't have account?",
+    "register": "Register",
+    "sign": "Sign up",
+    "name": "name",
+    "surname": "surname",
+    "email": "email",
+    "number": "number",
+    "ret": "return password",
+    "now": "Log in",
+    "camera": "Open camera",
+    "flash": "flash"
+}
